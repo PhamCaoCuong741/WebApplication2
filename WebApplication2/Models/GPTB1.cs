@@ -5,7 +5,7 @@ using System.Web;
 
 namespace WebApplication2.Models
 {
-    public class agc
+    public class GPTB1
     {
     }
 }
